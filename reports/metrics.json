@@ -1,0 +1,28 @@
+{
+  "selected_model": "Gradient boosting",
+  "validation": {
+    "Ridge": {
+      "MAE": 52.17830574916843,
+      "RMSE": 75.74533691470866
+    },
+    "Gradient boosting": {
+      "MAE": 35.39798133799088,
+      "RMSE": 54.44728852022239
+    }
+  },
+  "test_model": {
+    "MAE": 28.31269485710295,
+    "RMSE": 45.13260516121084
+  },
+  "test_weekly_baseline": {
+    "MAE": 69.56387035271688,
+    "RMSE": 114.85293161629772
+  },
+  "rows": {
+    "train": 12591,
+    "validation": 2208,
+    "test": 2098
+  },
+  "test_start": "2012-10-01",
+  "evaluation": "Rolling one-hour-ahead evaluation using actual demand from preceding hours."
+}
