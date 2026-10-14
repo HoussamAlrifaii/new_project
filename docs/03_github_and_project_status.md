@@ -10,7 +10,7 @@ Recommended description: **Real-data hourly bike-demand forecasting with Python 
 
 ## GitHub publication and naming
 
-Project files are prepared in the cloud checkout at `/workspace/new_project`. The Git origin currently uses `HoussamAlrifaii/new_project`. The project title is BikePulse; the remote repository name is a separate GitHub setting. Use `git log` and the GitHub repository page to inspect published commits. Public application hosting is separate from publishing source code.
+Project files were committed and pushed to GitHub `main` on October 14, 2026. They are also available in the cloud checkout at `/workspace/new_project`. The Git origin currently uses `HoussamAlrifaii/new_project`. The project title is BikePulse; the remote repository name is a separate GitHub setting. Use `git log` and the GitHub repository page to inspect published commits. Public application hosting is separate from publishing source code.
 
 GitHub API access returned `Forbidden`, so the API route cannot rename the repository. The recommended `bikepulse-demand-forecasting` URL was also not accessible at the latest check. The local folder remains `new_project` to preserve saved setup paths.
 
