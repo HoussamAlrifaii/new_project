@@ -2,6 +2,8 @@
 
 A real-data, one-hour-ahead Capital Bikeshare demand forecasting project with Python EDA, chronological model selection, and a Streamlit historical replay interface.
 
+[Open the Colab notebook](https://colab.research.google.com/github/HoussamAlrifaii/new_project/blob/main/notebooks/BikePulse_Colab.ipynb) — save a copy in Drive, then run the setup cell first.
+
 ## Learn how the project works
 
 - [Data dictionary and chart explanations](docs/01_data_and_charts.md)
